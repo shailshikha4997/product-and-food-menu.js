@@ -1,0 +1,28 @@
+.header {
+    height: 120px;
+    width: 100%;
+    background-color: rgb(206, 182, 228);
+}
+
+nav li a {
+    color: blueviolet;
+    height: 30px;
+    padding-top: 4px;
+    font-size: larger;
+    color: brown;
+    font-family: bold;
+}
+
+nav {
+    margin-left: 880px;
+    width: 350px;
+    margin-top: -40px;
+    position: fixed;
+}
+
+img {
+    height: 100px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
